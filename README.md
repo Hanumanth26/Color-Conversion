@@ -104,17 +104,14 @@ cv2.destroyAllWindow
 ![OUTPUT](/1.jpeg)
 
 ### ii) HSV to RGB and BGR
-[OUTPUT](/2.jpeg)
 
+![OUTPUT](/2.jpeg)
 ### iii) RGB and BGR to YCrCb
-[OUTPUT](/3.jpeg)
-
+![OUTPUT](/3.jpeg)
 ### iv) Split and merge RGB Image
-[OUTPUT](/4.jpeg)
-
+![OUTPUT](/4.jpeg)
 ### v) Split and merge HSV Image
-[OUTPUT](/5.jpeg)
 
-
+![OUTPUT](/5.jpeg)
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
